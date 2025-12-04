@@ -1,0 +1,199 @@
+Product_ID,Product_Name,Catagory,Supplier_ID,Supplier_Name,Stock_Quantity,Reorder_Level,Reorder_Quantity,Unit_Price,ds,Last_Order_Date,Expiration_Date,Warehouse_Location,y,Inventory_Turnover_Rate,Status,Seasonality,Demand
+14-681-7035,White Tea,Beverages,01-308-0960,Voolith,36,90,57,$25.00 ,2024-12-11,08-07-2024,5/18/2024,95261 Morningstar Way,35,68,Backordered,Festive,528
+05-425-0746,Onion,Fruits & Vegetables,23-450-0301,Gabspot,50,68,90,$2.00 ,2024-12-12,05-09-2024,06-05-2024,49884 Brickson Park Plaza,40,13,Discontinued,Festive,323
+43-910-2342,Plum,Fruits & Vegetables,06-569-4690,Feedspan,26,69,90,$4.00 ,2024-12-12,06-08-2024,7/19/2024,46758 Hallows Center,47,35,Active,Festive,300
+93-815-0565,Sesame Oil,Oils & Fats,56-422-1480,Jaxworks,50,36,96,$6.50 ,2024-12-12,08-12-2024,07-01-2024,8868 Armistice Place,53,73,Backordered,Festive,487
+76-090-4411,Ricotta Cheese,Dairy,82-552-6786,Shufflester,49,94,18,$6.00 ,2024-12-12,08-10-2024,4/16/2024,15 Loomis Avenue,38,11,Active,Festive,415
+24-478-8277,Multigrain Bread,Bakery,64-070-7611,Bubblebox,47,26,40,$3.25 ,2024-12-13,01-12-2025,11/26/2024,55276 Golf Hill,30,72,Active,Festive,586
+11-032-9778,Peas,Fruits & Vegetables,42-380-8881,Edgepulse,99,1,4,$3.00 ,2024-12-13,1/27/2025,8/19/2024,553 Mayfield Crossing,50,53,Backordered,Festive,433
+75-094-1179,Rye Bread,Bakery,57-615-0729,Vitz,26,79,31,$3.00 ,2024-12-13,02-09-2025,7/18/2024,13 Forest Run Place,47,41,Discontinued,Festive,369
+12-239-9399,Potato,Fruits & Vegetables,53-584-1853,Tagtune,28,40,27,$1.20 ,2024-12-14,7/29/2024,10/27/2024,924 La Follette Alley,30,56,Active,Festive,369
+83-321-7887,Egg (Duck),Dairy,70-444-9176,Yombu,44,75,72,$1.00 ,2024-12-14,11/29/2024,08-02-2024,35598 Fuller Terrace,96,38,Discontinued,Festive,492
+80-371-3695,Cottage Cheese,Dairy,42-254-7371,Divape,89,42,76,$5.00 ,2024-12-15,11/30/2024,12-10-2024,163 Esch Pass,94,81,Backordered,Festive,573
+49-199-6836,Tomato,Fruits & Vegetables,81-999-7392,Thoughtbeat,100,64,62,$2.50 ,2024-12-15,12/30/2024,8/24/2024,77 Brown Circle,84,44,Discontinued,Festive,319
+85-510-2915,White Bread,Bakery,55-134-2668,Mybuzz,62,49,38,$2.50 ,2024-12-16,5/29/2024,10-09-2024,8 Merrick Lane,42,44,Discontinued,Festive,486
+08-637-9335,Lettuce,Fruits & Vegetables,99-178-0951,Meemm,100,7,14,$2.00 ,2024-12-16,03-06-2024,7/25/2024,9 Cardinal Alley,26,33,Backordered,Festive,352
+85-212-2729,Egg (Turkey),Dairy,58-226-6435,Browsecat,42,94,79,$2.50 ,2024-12-17,12/21/2024,5/16/2024,93 Longview Junction,61,92,Backordered,Festive,533
+51-469-4611,Long Grain Rice,Grains & Pulses,62-029-0827,Fivebridge,62,81,91,$1.60 ,2024-12-18,5/24/2024,01-07-2025,04776 Saint Paul Park,100,42,Discontinued,Festive,459
+32-676-1026,Salmon,Seafood,98-155-9583,Buzzshare,52,46,12,$15.00 ,2024-12-18,06-04-2024,4/16/2024,9433 Jenna Lane,43,34,Backordered,Festive,315
+34-928-2775,Coconut,Fruits & Vegetables,07-959-3210,Browseblab,19,47,25,$5.00 ,2024-12-18,2/24/2025,1/28/2025,7945 Mayer Center,96,37,Discontinued,Festive,354
+49-526-7806,Kale,Fruits & Vegetables,66-973-4855,Yodoo,77,52,28,$4.00 ,2024-12-19,11/19/2024,05-01-2024,6744 Helena Pass,48,43,Active,Festive,462
+53-080-8252,Sourdough Bread,Bakery,73-744-7022,Thoughtstorm,30,85,21,$4.50 ,2024-12-19,9/24/2024,11/20/2024,2 Grayhawk Junction,32,83,Discontinued,Festive,459
+91-426-3204,Haddock,Seafood,86-184-4829,Geba,67,71,4,$9.00 ,2024-12-19,4/14/2024,07-08-2024,269 Dakota Trail,76,34,Backordered,Festive,391
+31-157-1822,Ricotta Cheese,Dairy,53-998-1422,Kwideo,96,80,20,$6.10 ,2024-12-19,7/30/2024,1/28/2025,803 Cottonwood Crossing,94,49,Discontinued,Festive,411
+64-109-7362,Anchovies,Seafood,38-603-6412,Voolia,86,55,96,$10.00 ,2024-12-19,07-09-2024,9/29/2024,7 Harper Drive,37,53,Backordered,Festive,401
+52-123-8039,Pomegranate,Fruits & Vegetables,24-087-5935,Browsebug,43,65,66,$6.00 ,2024-12-21,09-03-2024,1/16/2025,7 Schiller Court,78,73,Backordered,Festive,378
+93-813-2419,Digestive Biscuit,Bakery,12-264-4503,Dynabox,39,16,57,$4.00 ,2024-12-21,04-09-2024,6/22/2024,7407 Farragut Pass,98,12,Active,Festive,391
+74-666-5671,Tuna,Seafood,58-657-7257,Youspan,37,33,80,$18.00 ,2024-12-21,05-10-2024,05-04-2024,11263 Kipling Hill,27,73,Backordered,Festive,511
+68-418-6724,Parmesan Cheese,Dairy,75-465-6257,Feedspan,63,4,85,$12.00 ,2024-12-21,1/13/2025,9/30/2024,49869 Bunker Hill Terrace,59,71,Active,Festive,432
+44-368-7112,Corn Oil,Oils & Fats,85-978-7855,Devbug,28,32,71,$2.50 ,2024-12-22,05-02-2024,12-06-2024,82 Hintze Court,32,49,Discontinued,Festive,588
+26-161-6692,Zucchini,Fruits & Vegetables,61-796-7912,Kare,61,90,26,$2.50 ,2024-12-22,09-07-2024,9/19/2024,70001 Vahlen Lane,79,84,Discontinued,Festive,449
+10-378-9729,Cabbage,,83-941-9620,Rooxo,69,21,68,$66.55 ,2024-12-23,11/26/2024,9/21/2024,2 Butterfield Pass,36,35,Discontinued,Festive,539
+01-820-5784,Egg (Duck),Dairy,80-567-5598,Skipfire,63,38,77,$1.00 ,2024-12-23,02-12-2025,4/26/2024,6982 Crownhardt Circle,23,18,Active,Festive,309
+43-851-9440,Lime,Fruits & Vegetables,67-674-0287,Camido,14,75,19,$1.90 ,2024-12-24,05-11-2024,03-04-2024,4033 Sloan Hill,100,84,Backordered,Festive,457
+95-262-6208,Black Tea,Beverages,66-227-1125,Devshare,19,78,90,$5.00 ,2024-12-24,4/15/2024,7/29/2024,44662 American Plaza,72,84,Discontinued,Festive,570
+37-248-6266,Pear,Fruits & Vegetables,75-553-7424,Youspan,84,74,48,$4.50 ,2024-12-24,10/17/2024,5/24/2024,7051 Calypso Place,64,32,Backordered,Festive,494
+39-479-5147,Tuna,Seafood,02-156-7270,Meedoo,92,68,79,$18.00 ,2024-12-24,8/18/2024,04-04-2024,14 Talmadge Park,40,57,Discontinued,Festive,441
+11-053-0107,Cherry,Fruits & Vegetables,07-410-2867,Rooxo,30,25,11,$8.00 ,2024-12-25,07-12-2024,6/28/2024,734 Thackeray Avenue,42,76,Active,Festive,488
+35-353-4068,Bread Flour,Grains & Pulses,44-199-6832,Jetpulse,64,11,97,$1.50 ,2024-12-26,12/18/2024,07-05-2024,8583 Northwestern Terrace,33,83,Discontinued,Festive,459
+02-974-8526,Onion,Fruits & Vegetables,09-387-1119,Mudo,74,4,39,$2.00 ,2024-12-26,04-05-2024,08-07-2024,42 Green Ridge Terrace,97,24,Backordered,Festive,311
+73-010-8323,Tuna,Seafood,80-622-6587,Tagcat,16,34,89,$18.00 ,2024-12-26,2/27/2024,4/29/2024,811 Dapin Center,35,52,Backordered,Festive,411
+28-608-0039,Lemon,Fruits & Vegetables,26-796-0872,Avavee,63,60,54,$2.50 ,2024-12-26,5/21/2024,4/15/2024,31057 Roth Place,33,31,Backordered,Festive,544
+96-334-2593,White Tea,Beverages,64-831-3071,Rhycero,60,27,58,$25.30 ,2024-12-26,6/27/2024,11/19/2024,9559 Muir Trail,43,91,Active,Festive,512
+86-273-9377,White Rice,Grains & Pulses,38-330-5543,Eimbee,18,86,20,$1.80 ,2024-12-26,12-04-2024,11/29/2024,1 Hollow Ridge Park,64,34,Discontinued,Festive,390
+08-495-6853,Heavy Cream,Dairy,07-432-0137,Yadel,74,62,6,$4.00 ,2024-12-27,1/13/2025,8/14/2024,7943 Amoth Parkway,65,96,Active,Festive,572
+95-252-9619,Carrot,Fruits & Vegetables,38-819-2922,Skynoodle,92,39,50,$1.60 ,2024-12-27,12-07-2024,11-09-2024,57453 Northwestern Alley,30,41,Backordered,Festive,526
+83-556-0996,Powdered Sugar,Grains & Pulses,81-234-0741,Jabberstorm,88,34,94,$2.40 ,2024-12-27,2/20/2025,10/30/2024,53 Forest Run Plaza,95,63,Active,Festive,484
+43-469-7551,Arabica Coffee,Beverages,64-361-4238,Rhycero,45,36,97,$20.00 ,2024-12-27,5/26/2024,1/25/2025,760 Butternut Plaza,36,6,Active,Festive,532
+65-282-0419,White Tea,Beverages,85-932-1011,Feedbug,50,100,91,$25.50 ,2024-12-28,7/17/2024,12-05-2024,509 Waywood Center,29,31,Active,Festive,434
+00-534-9775,Black Coffee,Beverages,79-955-6260,Tagpad,87,91,23,$14.90 ,2024-12-29,5/23/2024,8/17/2024,68 Dakota Center,90,75,Backordered,Festive,329
+95-449-1286,Egg (Chicken),Dairy,18-260-7354,Realfire,10,17,70,$0.20 ,2024-12-29,12/23/2024,09-08-2024,1 Jackson Pass,100,63,Backordered,Festive,428
+09-618-2842,White Sugar,Grains & Pulses,68-415-1025,Yambee,38,82,17,$2.00 ,2024-12-29,3/21/2024,08-06-2024,642 Arizona Point,52,47,Discontinued,Festive,528
+74-610-2295,Green Coffee,Beverages,22-959-6357,Lajo,61,31,100,$12.50 ,2024-12-30,3/16/2024,9/26/2024,87 Bluestem Parkway,95,61,Active,Festive,509
+17-265-1899,Orange,Fruits & Vegetables,61-793-0279,Demimbu,81,35,82,$3.00 ,2024-12-30,3/25/2024,02-10-2025,4826 Drewry Center,86,71,Backordered,Festive,518
+07-337-9889,Cauliflower,Fruits & Vegetables,84-949-8378,Twitterwire,95,6,59,$2.50 ,2024-12-31,8/15/2024,9/29/2024,4 Loomis Way,49,77,Active,Festive,314
+06-336-5482,Sardines,Seafood,99-784-4391,Voolia,89,34,15,$6.00 ,2024-12-31,03-08-2024,8/24/2024,7 Mockingbird Hill,60,2,Discontinued,Festive,585
+20-283-0111,Pear,Fruits & Vegetables,60-394-8955,Cogidoo,58,55,5,$4.45 ,2024-12-31,4/17/2024,01-06-2025,0 Ruskin Way,62,89,Active,Festive,482
+77-937-1108,White Sugar,Grains & Pulses,41-007-0132,Twimm,39,83,21,$2.00 ,2024-12-31,4/23/2024,04-12-2024,01 Hansons Crossing,73,88,Active,Festive,520
+49-891-4927,Cottage Cheese,Dairy,89-155-3471,Midel,37,5,1,$5.00 ,2025-01-02,2/26/2024,11/28/2024,46 Hoffman Trail,68,99,Active,Normal Days,62
+94-020-6982,Tuna,Seafood,72-649-3163,Thoughtstorm,25,75,27,$18.00 ,2025-01-02,10-05-2024,05-04-2024,381 Rutledge Place,31,36,Active,Normal Days,97
+88-807-8431,Haddock,Seafood,66-563-9462,Eire,11,87,43,$9.00 ,2025-01-02,06-06-2024,02-09-2025,2 Russell Alley,86,91,Active,Normal Days,65
+07-389-5740,Egg (Quail),Dairy,72-784-3292,Skimia,34,94,69,$0.80 ,2025-01-03,03-12-2024,7/17/2024,59 Veith Center,96,30,Backordered,Normal Days,80
+19-672-8982,Butter,Dairy,50-214-3802,Meembee,21,87,67,$3.10 ,2025-01-03,1/23/2025,3/31/2024,285 East Plaza,64,69,Discontinued,Normal Days,105
+41-237-5498,Cheese,Dairy,38-643-1626,Omba,88,53,44,$9.00 ,2025-01-04,12/24/2024,02-06-2025,29817 Coleman Drive,56,14,Discontinued,Normal Days,116
+10-555-5971,Sourdough Bread,Bakery,30-410-3509,Gigashots,94,56,80,$4.00 ,2025-01-04,12-02-2024,9/27/2024,8425 New Castle Parkway,47,96,Backordered,Normal Days,55
+73-997-6251,Bell Pepper,Fruits & Vegetables,17-167-4304,Livetube,94,18,84,$4.50 ,2025-01-04,10/15/2024,9/17/2024,1666 Dayton Terrace,44,49,Discontinued,Normal Days,88
+35-617-3857,Arabica Coffee,Beverages,90-718-2724,Youspan,46,31,89,$20.00 ,2025-01-04,3/21/2024,03-06-2024,292 Charing Cross Terrace,59,65,Backordered,Normal Days,134
+86-672-4191,Egg (Goose),Dairy,79-219-8469,Einti,88,22,61,$2.50 ,2025-01-04,9/29/2024,02-08-2025,18 Troy Avenue,54,100,Discontinued,Normal Days,102
+45-050-4720,Black Rice,Grains & Pulses,98-791-5014,Voonder,18,78,43,$6.00 ,2025-01-04,07-05-2024,3/13/2024,7 Ridge Oak Pass,85,97,Active,Normal Days,76
+12-798-9401,Cream,Dairy,96-609-6152,Thoughtblab,18,14,77,$2.50 ,2025-01-05,05-12-2024,5/25/2024,5 Forster Point,78,4,Backordered,Normal Days,86
+60-911-3745,Black Rice,Grains & Pulses,87-570-0273,Blognation,98,41,98,$6.35 ,2025-01-05,8/31/2024,1/18/2025,75054 Ramsey Parkway,70,75,Backordered,Normal Days,89
+93-014-4256,Green Beans,Fruits & Vegetables,37-599-8579,BlogXS,19,92,41,$2.00 ,2025-01-05,01-11-2025,10/13/2024,6 Bay Road,51,79,Active,Normal Days,81
+16-187-5729,Black Tea,Beverages,79-366-7207,Zoombeat,45,58,84,$5.00 ,2025-01-06,3/21/2024,3/30/2024,22555 Macpherson Plaza,90,67,Active,Normal Days,119
+29-896-7926,White Rice,Grains & Pulses,86-400-4155,Centidel,20,20,56,$1.80 ,2025-01-06,06-01-2024,05-06-2024,80930 Briar Crest Point,62,69,Backordered,Normal Days,88
+25-353-2067,Papaya,Fruits & Vegetables,01-210-3485,Brightbean,81,16,69,$4.30 ,2025-01-06,08-04-2024,7/25/2024,59449 Sherman Parkway,23,96,Backordered,Normal Days,56
+72-341-1154,Heavy Cream,Dairy,84-090-6472,Yodo,85,66,85,$4.20 ,2025-01-06,10/31/2024,09-09-2024,8682 Golf Course Junction,65,58,Discontinued,Normal Days,50
+67-027-7269,Mushrooms,Fruits & Vegetables,50-050-5707,Twitterbeat,35,19,30,$6.50 ,2025-01-06,11/30/2024,11-09-2024,615 Mayer Drive,88,6,Backordered,Normal Days,55
+14-115-8371,Chocolate Biscuit,Bakery,80-833-3051,Yakitri,23,76,70,$5.00 ,2025-01-07,9/19/2024,09-01-2024,40 Cody Pass,97,38,Backordered,Normal Days,103
+78-689-8958,White Tea,Beverages,52-744-6162,Chatterbridge,20,43,43,$25.00 ,2025-01-07,2/27/2024,3/29/2024,04 Mesta Parkway,73,6,Active,Normal Days,79
+66-378-7532,Blueberries,Fruits & Vegetables,15-365-5585,Flipbug,87,51,67,$10.00 ,2025-01-07,06-05-2024,05-06-2024,88678 Bayside Park,55,100,Backordered,Normal Days,78
+46-083-7058,Haddock,Seafood,26-730-0925,Devshare,61,91,40,$9.00 ,2025-01-08,8/27/2024,06-09-2024,21530 Prentice Place,34,76,Active,Normal Days,68
+68-734-1585,Greek Yogurt,Fruits & Vegetables,54-537-5633,Meeveo,62,44,11,$51.17 ,2025-01-08,4/16/2024,7/13/2024,3 Hagan Drive,92,37,Discontinued,Normal Days,100
+93-342-8794,Bread Flour,Grains & Pulses,93-688-1260,Realblab,84,91,86,$1.50 ,2025-01-08,12-07-2024,11/22/2024,39102 Division Trail,83,95,Backordered,Normal Days,121
+42-175-1648,Pomegranate,Fruits & Vegetables,67-272-8844,Browsetype,81,87,15,$6.00 ,2025-01-08,1/25/2025,09-09-2024,72778 Loftsgordon Center,94,10,Backordered,Normal Days,149
+79-494-2472,Green Beans,Fruits & Vegetables,04-391-8892,Kanoodle,42,48,18,$2.00 ,2025-01-09,4/19/2024,4/23/2024,1615 Bellgrove Crossing,39,57,Active,Normal Days,75
+63-897-8088,Zucchini,Fruits & Vegetables,82-313-4469,Skibox,63,56,33,$2.50 ,2025-01-09,06-07-2024,10/16/2024,7944 Elgar Alley,35,16,Backordered,Normal Days,53
+12-714-5135,Ricotta Cheese,Dairy,97-055-2756,Janyx,49,28,74,$6.00 ,2025-01-09,1/14/2025,4/25/2024,2003 Delladonna Pass,70,38,Discontinued,Normal Days,108
+54-708-7327,Jasmine Rice,Grains & Pulses,46-316-6919,Linktype,50,14,99,$4.75 ,2025-01-09,3/28/2024,4/15/2024,8182 Hazelcrest Place,52,75,Active,Normal Days,134
+35-031-1497,Green Coffee,Beverages,84-835-1656,Linklinks,20,68,20,$12.00 ,2025-01-09,07-04-2024,11-02-2024,581 Oneill Crossing,38,51,Active,Normal Days,131
+65-235-7676,Whole Wheat Bread,Bakery,22-083-3504,Quire,91,71,17,$3.50 ,2025-01-10,08-01-2024,06-03-2024,31208 Westerfield Way,74,57,Active,Normal Days,60
+01-173-0029,Blueberries,Fruits & Vegetables,18-880-7910,DabZ,42,4,53,$10.00 ,2025-01-10,07-05-2024,04-12-2024,8 Dakota Avenue,37,53,Active,Normal Days,103
+30-832-5429,Multigrain Bread,Bakery,41-800-2842,Topicshots,46,43,46,$3.50 ,2025-01-10,10-05-2024,9/17/2024,894 Kingsford Road,68,59,Backordered,Normal Days,141
+66-854-5736,Kiwi,Fruits & Vegetables,98-591-1051,Vitz,63,57,11,$5.80 ,2025-01-11,12/23/2024,05-10-2024,50880 Nobel Road,20,100,Discontinued,Normal Days,85
+85-835-3445,Egg (Goose),Dairy,13-433-4930,Gigashots,50,93,37,$2.45 ,2025-01-11,03-02-2024,05-12-2024,288 Fair Oaks Place,78,79,Backordered,Normal Days,63
+19-112-1616,Lettuce,Fruits & Vegetables,55-251-3001,Quamba,88,56,72,$2.00 ,2025-01-12,04-12-2024,6/28/2024,7698 Logan Drive,25,36,Active,Normal Days,67
+89-713-6071,Sesame Oil,Oils & Fats,84-123-7159,Tazz,89,66,28,$6.50 ,2025-01-13,11/19/2024,11/25/2024,60 Dottie Hill,39,25,Active,Normal Days,73
+38-664-2155,Cauliflower,Fruits & Vegetables,10-540-5841,Realpoint,48,27,73,$2.55 ,2025-01-13,04-12-2024,5/30/2024,843 Pepper Wood Hill,52,97,Discontinued,Normal Days,149
+20-448-2972,Asparagus,Fruits & Vegetables,26-920-6626,Buzzbean,80,6,92,$5.00 ,2025-01-14,1/20/2025,9/16/2024,49770 Hoffman Court,26,71,Discontinued,Normal Days,133
+27-389-3529,Haddock,Seafood,73-201-2803,Feedfish,84,8,54,$9.00 ,2025-01-14,4/23/2024,03-09-2024,234 Eagle Crest Avenue,60,38,Active,Normal Days,110
+56-191-6497,Bread Flour,Grains & Pulses,65-395-5947,Bubblebox,97,41,68,$1.50 ,2025-01-14,10-04-2024,01-07-2025,844 Schurz Point,35,16,Discontinued,Normal Days,104
+11-604-6002,Canola Oil,Oils & Fats,50-862-4552,Kimia,69,17,27,$2.30 ,2025-01-14,6/18/2024,5/29/2024,17640 Cottonwood Place,79,75,Backordered,Normal Days,103
+77-959-1018,Lettuce,Fruits & Vegetables,00-912-3545,Gigabox,22,22,65,$2.00 ,2025-01-15,4/30/2024,06-12-2024,03 Ryan Circle,62,78,Backordered,Normal Days,113
+69-895-3397,Cucumber,Fruits & Vegetables,02-575-2074,Yabox,28,5,9,$1.80 ,2025-01-16,1/16/2025,03-04-2024,98 Melody Street,33,9,Discontinued,Normal Days,131
+32-933-0329,Blueberries,Fruits & Vegetables,86-760-5412,Linklinks,23,38,54,$10.00 ,2025-01-17,7/14/2024,4/15/2024,57150 Del Sol Alley,40,15,Active,Normal Days,97
+33-440-2588,Bell Pepper,Fruits & Vegetables,68-596-5506,Tagpad,26,12,43,$4.40 ,2025-01-17,9/16/2024,2/24/2025,4 6th Plaza,73,20,Backordered,Normal Days,149
+43-193-9915,Mozzarella Cheese,Dairy,23-931-2988,Roodel,55,58,6,$7.20 ,2025-01-17,07-12-2024,9/23/2024,61 Transport Parkway,48,17,Discontinued,Normal Days,50
+02-085-7218,Cheddar Cheese,Dairy,41-978-3326,Oyonder,85,28,32,$8.90 ,2025-01-17,6/25/2024,1/28/2025,2835 Schlimgen Parkway,57,41,Backordered,Normal Days,55
+62-998-7250,Evaporated Milk,Dairy,72-002-3904,Photobug,72,3,10,$2.00 ,2025-01-18,7/31/2024,10-05-2024,9171 Redwing Street,52,14,Backordered,Normal Days,129
+38-390-2115,Potato,Fruits & Vegetables,12-433-6490,Rhyzio,42,69,54,$1.20 ,2025-01-19,03-06-2024,03-01-2024,3 Del Mar Point,43,96,Active,Normal Days,93
+70-871-4536,Swiss Cheese,Dairy,72-514-7323,Cogilith,29,4,17,$8.00 ,2025-01-19,11/13/2024,6/17/2024,5 Waxwing Junction,59,52,Active,Normal Days,127
+38-822-8005,Cucumber,Fruits & Vegetables,45-886-1540,Innojam,47,20,65,$1.75 ,2025-01-19,01-12-2025,3/31/2024,6 Stang Hill,49,19,Backordered,Normal Days,84
+28-968-4195,Eggplant,Fruits & Vegetables,17-562-1176,Blogtag,97,52,80,$3.00 ,2025-01-19,7/17/2024,10/13/2024,5 Loftsgordon Trail,22,90,Backordered,Normal Days,108
+00-405-7428,Apple,Fruits & Vegetables,42-746-2717,Zava,81,74,45,$3.50 ,2025-01-20,1/27/2025,01-12-2025,42 Mallory Court,42,23,Discontinued,Normal Days,70
+09-286-8107,Greek Yogurt,Dairy,90-727-4816,Skyndu,90,62,54,$3.00 ,2025-01-20,09-07-2024,12/15/2024,75 Bunting Junction,70,83,Discontinued,Normal Days,85
+64-418-8356,Sunflower Oil,Oils & Fats,91-451-2016,Ooba,80,24,60,$2.50 ,2025-01-21,11/13/2024,4/28/2024,1 Green Hill,98,38,Active,Normal Days,100
+34-131-8805,Yogurt,Dairy,84-472-8001,Eimbee,92,92,28,$1.75 ,2025-01-21,09-10-2024,12/22/2024,44249 Sutteridge Crossing,50,67,Discontinued,Normal Days,93
+52-481-5224,Kiwi,Fruits & Vegetables,46-382-2024,Fiveclub,45,24,61,$6.00 ,2025-01-21,02-07-2025,2/15/2025,80 Old Shore Plaza,44,34,Backordered,Normal Days,77
+36-840-2728,Mackerel,Seafood,26-454-7297,Dabfeed,76,21,3,$7.50 ,2025-01-21,08-10-2024,3/14/2024,08545 Lillian Street,31,47,Discontinued,Normal Days,79
+43-893-5408,Short Grain Rice,Grains & Pulses,25-414-2945,Snaptags,60,90,85,$3.00 ,2025-01-21,3/20/2024,8/24/2024,6 Orin Place,47,9,Discontinued,Normal Days,126
+44-637-5512,Watermelon,Fruits & Vegetables,27-541-2645,Jaxspan,58,12,99,$3.00 ,2025-01-22,01-12-2025,5/26/2024,00064 Mosinee Circle,71,30,Active,Normal Days,107
+51-462-0747,Lime,Fruits & Vegetables,40-417-9838,Vinder,21,30,32,$2.00 ,2025-01-22,02-07-2025,03-10-2024,453 Dryden Park,43,54,Backordered,Normal Days,70
+74-711-7160,Sushi Rice,Grains & Pulses,40-662-8853,Meembee,84,69,77,$4.50 ,2025-01-22,12/28/2024,06-01-2024,44296 Kropf Avenue,39,69,Backordered,Normal Days,70
+72-404-5581,Almond Flour,Grains & Pulses,18-065-8014,Pixonyx,54,17,90,$9.50 ,2025-01-23,08-07-2024,02-08-2025,879 Amoth Terrace,60,20,Active,Normal Days,55
+27-881-1177,Green Tea,Beverages,64-807-5250,Skalith,34,47,99,$8.00 ,2025-01-23,07-03-2024,11/23/2024,1223 Monument Drive,97,47,Backordered,Normal Days,135
+12-046-2988,Corn Oil,Oils & Fats,37-630-2250,Youbridge,17,63,66,$2.50 ,2025-01-25,1/24/2025,11/21/2024,931 Browning Center,23,46,Backordered,Normal Days,70
+63-168-6018,Cucumber,Fruits & Vegetables,01-853-2191,Bubblemix,60,63,81,$1.80 ,2025-01-26,10-03-2024,05-01-2024,0847 Artisan Hill,74,31,Active,Republic Day,159
+21-816-1004,Black Coffee,Beverages,68-482-4786,Realpoint,84,13,88,$15.00 ,2025-01-26,12-04-2024,7/22/2024,564 Hazelcrest Crossing,25,34,Backordered,Republic Day,167
+81-605-6246,Sardines,Seafood,62-086-0407,Shufflester,73,31,49,$6.00 ,2025-01-26,03-02-2024,03-06-2024,65721 Caliangt Crossing,22,47,Discontinued,Republic Day,156
+11-815-7923,Parmesan Cheese,Dairy,98-304-8407,Rhyloo,96,9,57,$11.80 ,2025-01-26,6/16/2024,08-06-2024,89 Springs Alley,78,67,Active,Republic Day,240
+26-456-1992,Tilapia,Seafood,60-159-3514,Geba,56,59,87,$7.00 ,2025-01-26,12/23/2024,7/29/2024,1792 Crownhardt Street,65,45,Active,Republic Day,185
+70-854-6891,Sourdough Bread,Bakery,79-575-9351,Flashspan,41,84,90,$4.00 ,2025-01-28,11/28/2024,11-12-2024,24045 Bluestem Point,42,65,Active,Normal Days,90
+80-374-5711,Herbal Tea,Beverages,77-566-9826,Browsecat,48,77,81,$31.00 ,2025-01-28,10-05-2024,12-07-2024,13 Bluejay Way,70,74,Backordered,Normal Days,121
+99-543-5039,Lemon,Fruits & Vegetables,63-683-7396,Livetube,65,88,20,$2.50 ,2025-01-28,11/20/2024,7/29/2024,71796 Waubesa Terrace,89,37,Backordered,Normal Days,85
+60-456-8169,Cheddar Cheese,Dairy,54-529-4459,Oyoba,21,28,72,$9.00 ,2025-01-28,2/28/2024,2/25/2024,710 Service Park,69,51,Backordered,Normal Days,124
+72-810-9753,Sesame Oil,Oils & Fats,17-359-2527,Yotz,14,84,15,$6.50 ,2025-01-28,02-07-2025,12-12-2024,545 Farwell Lane,51,73,Active,Normal Days,125
+87-762-1317,Mozzarella Cheese,Dairy,58-474-3510,Dazzlesphere,45,63,75,$7.00 ,2025-01-28,11/20/2024,02-09-2025,9305 Warrior Way,83,5,Discontinued,Normal Days,144
+46-415-8633,Apple,Fruits & Vegetables,32-497-0478,Omba,71,36,45,$3.50 ,2025-01-29,11/17/2024,01-02-2025,5 Eggendart Parkway,87,2,Backordered,Normal Days,89
+78-956-4737,Sushi Rice,Grains & Pulses,76-712-0418,Photobug,47,1,60,$4.20 ,2025-01-29,5/19/2024,4/18/2024,9 Burrows Junction,32,87,Discontinued,Normal Days,95
+27-783-5470,Feta Cheese,Dairy,45-997-6429,Thoughtstorm,74,65,5,$7.00 ,2025-01-30,7/27/2024,3/16/2024,6 Tony Junction,21,42,Discontinued,Normal Days,85
+06-611-5454,Peanut Oil,Oils & Fats,43-786-9229,Bluezoom,64,21,13,$4.00 ,2025-01-30,10-11-2024,11/16/2024,16 Autumn Leaf Way,51,26,Backordered,Normal Days,71
+55-697-5242,Ricotta Cheese,Dairy,74-726-0855,Shufflebeat,51,53,88,$6.00 ,2025-01-31,6/30/2024,9/24/2024,19112 Little Fleur Road,54,59,Discontinued,Normal Days,111
+15-082-9124,Apricot,Fruits & Vegetables,02-997-1489,LiveZ,89,35,19,$5.00 ,2025-01-31,10-08-2024,05-07-2024,38 Dawn Street,49,55,Discontinued,Normal Days,147
+61-827-4098,Cod,Seafood,34-850-0377,Devbug,23,42,87,$8.00 ,2025-02-01,7/15/2024,3/24/2024,29992 Warrior Center,63,5,Backordered,Normal Days,130
+76-070-1411,Evaporated Milk,Dairy,63-528-0643,Realcube,15,75,78,$1.90 ,2025-02-01,02-12-2025,2/14/2025,87578 Stoughton Parkway,71,21,Discontinued,Normal Days,65
+02-034-6209,Sour Cream,Dairy,34-724-1913,Yodel,22,43,3,$4.10 ,2025-02-01,7/26/2024,10-08-2024,96 Brown Drive,45,87,Backordered,Normal Days,81
+36-330-5036,Salmon,Seafood,52-359-1255,Mycat,79,28,4,$15.00 ,2025-02-01,9/20/2024,5/17/2024,21 Golden Leaf Hill,42,46,Active,Normal Days,103
+92-291-7089,Cheese,Dairy,08-523-5066,Jaxspan,76,15,99,$9.50 ,2025-02-01,7/26/2024,05-06-2024,9307 Kingsford Road,60,49,Discontinued,Normal Days,78
+67-270-7464,Jasmine Rice,Grains & Pulses,83-960-5274,Yadel,91,73,77,$4.75 ,2025-02-01,8/24/2024,12-07-2024,7242 Claremont Avenue,51,49,Discontinued,Normal Days,110
+39-629-5554,Egg (Goose),Dairy,67-679-4930,Muxo,44,90,17,$2.50 ,2025-02-03,04-09-2024,02-05-2025,267 International Plaza,21,91,Discontinued,Normal Days,53
+27-635-8394,Orange,Fruits & Vegetables,87-893-6089,Twitterwire,88,37,61,$2.90 ,2025-02-03,11/13/2024,3/19/2024,812 Shelley Circle,63,35,Discontinued,Normal Days,111
+14-844-4138,Black Coffee,Beverages,90-534-2165,Flipbug,61,43,29,$15.00 ,2025-02-03,10/25/2024,03-03-2024,40643 Sullivan Lane,67,6,Discontinued,Normal Days,117
+65-464-5070,Heavy Cream,Dairy,01-517-7793,Ntags,12,60,73,$4.00 ,2025-02-03,3/16/2024,09-01-2024,00 Luster Alley,20,35,Discontinued,Normal Days,99
+46-911-1159,Onion,Fruits & Vegetables,30-820-2883,Voolia,98,40,100,$2.00 ,2025-02-03,10/30/2024,12/19/2024,9171 Norway Maple Trail,46,9,Active,Normal Days,131
+53-446-8243,Orange,Fruits & Vegetables,51-666-7174,Skipfire,41,94,4,$3.00 ,2025-02-04,7/26/2024,4/23/2024,757 Grasskamp Drive,88,92,Discontinued,Normal Days,86
+53-146-9979,Powdered Sugar,Grains & Pulses,44-388-2451,Skidoo,21,15,27,$2.50 ,2025-02-05,10-11-2024,08-08-2024,42 Mandrake Alley,37,41,Active,Normal Days,148
+65-780-5622,Butter Biscuit,Bakery,69-460-9770,InnoZ,74,81,41,$6.00 ,2025-02-05,05-02-2024,5/27/2024,65 Forster Way,51,67,Active,Normal Days,88
+49-311-3063,Kiwi,Fruits & Vegetables,15-947-9718,Talane,47,75,53,$6.00 ,2025-02-06,10-03-2024,07-03-2024,71 Bultman Drive,70,20,Discontinued,Normal Days,136
+98-652-9569,Butter Biscuit,Bakery,65-160-1426,Ooba,12,7,23,$6.00 ,2025-02-06,2/17/2025,6/23/2024,32 6th Lane,72,16,Discontinued,Normal Days,101
+76-540-6407,Orange,Fruits & Vegetables,78-644-5877,Demimbu,92,54,73,$3.10 ,2025-02-07,1/17/2025,12/13/2024,77 Prairie Rose Park,79,1,Backordered,Normal Days,100
+81-573-0943,Egg (Chicken),Dairy,07-754-2313,Topiclounge,22,58,2,$0.20 ,2025-02-07,6/28/2024,11/14/2024,20 Marcy Circle,33,68,Active,Normal Days,129
+68-732-5919,Jasmine Rice,Grains & Pulses,07-500-2023,Eimbee,26,83,24,$4.75 ,2025-02-07,10/29/2024,5/17/2024,56 Bonner Point,75,12,Backordered,Normal Days,69
+66-716-8221,Cheddar Cheese,Dairy,67-024-9832,LiveZ,70,96,35,$9.00 ,2025-02-08,6/24/2024,1/17/2025,54 Weeping Birch Lane,63,84,Backordered,Normal Days,86
+70-206-4860,Egg (Quail),Dairy,82-527-9395,Meejo,93,68,71,$0.80 ,2025-02-09,03-11-2024,9/17/2024,75 High Crossing Junction,30,37,Discontinued,Normal Days,96
+15-679-3935,Grapes,Fruits & Vegetables,35-906-1010,Jabbersphere,22,69,87,$5.50 ,2025-02-09,6/15/2024,2/20/2025,95 Garrison Plaza,34,26,Backordered,Normal Days,113
+31-608-1445,Papaya,Fruits & Vegetables,75-286-4153,Ntag,84,28,29,$4.40 ,2025-02-09,2/15/2025,12/14/2024,227 Tennyson Plaza,54,32,Discontinued,Normal Days,81
+08-573-9997,Pomegranate,Fruits & Vegetables,95-734-4024,Meevee,26,1,9,$6.00 ,2025-02-10,04-05-2024,12-02-2024,03 Little Fleur Pass,82,8,Backordered,Normal Days,111
+35-836-6718,Ricotta Cheese,Dairy,27-838-4345,Thoughtblab,91,14,99,$6.00 ,2025-02-10,1/25/2025,1/22/2025,05 Canary Circle,50,5,Backordered,Normal Days,55
+79-400-6216,Mozzarella Cheese,Dairy,83-361-7509,Devpoint,16,56,13,$7.20 ,2025-02-10,03-10-2024,10-02-2024,4 Warbler Center,56,28,Discontinued,Normal Days,54
+10-768-2443,Multigrain Bread,Bakery,44-451-2764,Katz,93,55,95,$3.25 ,2025-02-11,03-05-2024,12/19/2024,4 Orin Lane,56,72,Backordered,Normal Days,73
+22-760-4605,Yogurt,Dairy,01-495-9336,Bubblemix,86,20,67,$1.75 ,2025-02-12,07-07-2024,08-03-2024,09264 Forest Dale Drive,83,82,Discontinued,Normal Days,63
+89-388-3239,Grapes,Fruits & Vegetables,28-521-7083,Centizu,54,88,43,$5.50 ,2025-02-12,5/24/2024,4/19/2024,4346 Columbus Way,81,77,Backordered,Normal Days,148
+57-101-0060,Whole Wheat Flour,Grains & Pulses,40-070-5881,Topicstorm,59,73,86,$2.75 ,2025-02-13,01-01-2025,09-11-2024,78919 East Crossing,32,56,Backordered,Normal Days,60
+42-495-7698,Sushi Rice,Grains & Pulses,93-625-4768,Latz,10,11,29,$4.30 ,2025-02-13,10-08-2024,7/22/2024,91 Gateway Pass,29,72,Backordered,Normal Days,75
+81-578-7404,Gouda Cheese,Dairy,90-177-6733,Rhyloo,67,79,98,$7.00 ,2025-02-13,08-11-2024,04-06-2024,5989 Longview Drive,73,36,Active,Normal Days,104
+90-303-1821,Onion,Fruits & Vegetables,96-786-0667,Edgewire,50,20,74,$2.00 ,2025-02-13,08-03-2024,10-05-2024,6435 Burning Wood Drive,30,57,Backordered,Normal Days,61
+40-126-0515,Carrot,Fruits & Vegetables,78-379-0369,Gigashots,74,37,57,$1.50 ,2025-02-14,03-04-2024,12/18/2024,28351 Cascade Plaza,91,18,Active,Normal Days,93
+60-644-6596,Trout,Seafood,32-745-8366,Rhynoodle,89,67,89,$12.00 ,2025-02-14,01-05-2025,11-10-2024,22 Hudson Pass,96,42,Discontinued,Normal Days,93
+99-561-4871,Haddock,Seafood,04-786-5408,Buzzdog,17,38,93,$9.00 ,2025-02-14,8/20/2024,7/28/2024,952 Rowland Junction,100,63,Active,Normal Days,127
+19-377-5021,Mackerel,Seafood,34-014-5873,Skynoodle,91,96,90,$7.50 ,2025-02-14,08-11-2024,12/24/2024,884 Sloan Drive,90,75,Backordered,Normal Days,76
+82-711-0772,Egg (Goose),Dairy,78-877-1866,Skyble,72,58,52,$2.40 ,2025-02-15,5/16/2024,10/23/2024,463 Oxford Crossing,36,14,Active,Normal Days,92
+55-803-3964,Bread Flour,Grains & Pulses,75-906-1086,Demizz,25,60,36,$1.50 ,2025-02-16,8/26/2024,10/30/2024,149 Valley Edge Point,31,41,Backordered,Normal Days,111
+00-119-8780,Halibut,Seafood,14-703-2550,Jaxspan,40,81,78,$20.00 ,2025-02-17,7/16/2024,03-04-2024,21 Sunbrook Court,39,65,Backordered,Normal Days,125
+13-888-0149,Lime,Fruits & Vegetables,09-902-6272,Shufflebeat,75,18,65,$2.00 ,2025-02-17,12/30/2024,3/15/2024,1 Logan Road,32,92,Active,Normal Days,93
+51-273-4240,Multigrain Bread,Bakery,32-506-0556,Devpulse,85,57,25,$3.50 ,2025-02-18,9/26/2024,6/20/2024,7 Prairieview Place,30,42,Discontinued,Normal Days,59
+23-395-3157,Vegetable Oil,Oils & Fats,48-538-8538,Tagtune,41,66,50,$2.00 ,2025-02-18,7/30/2024,3/16/2024,74 Sugar Plaza,55,74,Backordered,Normal Days,143
+95-354-8583,Long Grain Rice,Grains & Pulses,02-057-9401,Meevee,98,40,93,$1.50 ,2025-02-19,02-11-2025,10/20/2024,848 Mariners Cove Junction,30,53,Active,Normal Days,80
+27-681-5588,Anchovies,Seafood,89-959-2254,Flipopia,100,99,8,$10.00 ,2025-02-19,10/26/2024,12-07-2024,498 Delladonna Drive,54,92,Discontinued,Normal Days,138
+03-149-9760,Whipped Cream,Dairy,08-141-2402,Yotz,92,99,93,$4.00 ,2025-02-19,7/13/2024,3/26/2024,554 Eliot Point,43,90,Discontinued,Normal Days,52
+02-895-7781,Coconut Sugar,Grains & Pulses,23-109-2205,Tagchat,51,55,76,$5.00 ,2025-02-19,9/26/2024,1/24/2025,2582 Autumn Leaf Park,21,13,Discontinued,Normal Days,101
+70-534-7796,Zucchini,Fruits & Vegetables,62-044-8874,Babblestorm,43,21,31,$2.50 ,2025-02-19,6/25/2024,1/17/2025,76106 Anthes Junction,22,25,Backordered,Normal Days,86
+72-066-4597,Broccoli,Fruits & Vegetables,97-994-0773,Zoovu,31,54,52,$4.00 ,2025-02-20,12-08-2024,12/13/2024,03 Fisk Alley,69,77,Active,Normal Days,148
+79-884-8810,Cucumber,Fruits & Vegetables,14-108-0409,Dabtype,12,93,29,$1.75 ,2025-02-20,12-06-2024,8/15/2024,546 Declaration Place,45,12,Backordered,Normal Days,137
+08-703-1382,Peach,Fruits & Vegetables,29-975-3449,Wikizz,40,53,7,$4.00 ,2025-02-21,03-06-2024,6/21/2024,082 Clove Plaza,70,20,Backordered,Normal Days,143
+39-315-3936,Heavy Cream,Dairy,99-034-7010,Yata,57,62,72,$4.00 ,2025-02-21,9/25/2024,08-10-2024,850 Glacier Hill Drive,23,4,Backordered,Normal Days,54
+06-690-2335,Jasmine Rice,Grains & Pulses,66-317-4895,Jabbertype,24,15,6,$4.75 ,2025-02-22,6/16/2024,05-07-2024,5 Linden Terrace,35,4,Discontinued,Normal Days,77
+44-634-8292,Whole Wheat Flour,Grains & Pulses,48-557-5036,Quatz,60,69,64,$2.75 ,2025-02-23,03-09-2024,01-02-2025,46 Orin Drive,51,6,Active,Normal Days,60
+43-153-8268,Vegetable Oil,Oils & Fats,19-809-5654,Abata,75,61,19,$2.00 ,2025-02-23,1/29/2025,10-02-2024,29815 Bonner Trail,79,69,Backordered,Normal Days,138
+50-930-4751,Salmon,Seafood,40-260-8547,Abata,88,40,29,$15.00 ,2025-02-24,6/24/2024,2/25/2024,80380 Valley Edge Road,96,87,Discontinued,Normal Days,68
+96-774-0457,Cod,Seafood,71-991-5737,Izio,56,50,80,$8.00 ,2025-02-24,03-12-2024,10/22/2024,7369 Thackeray Drive,99,5,Discontinued,Normal Days,120
+63-918-8253,Mango,Fruits & Vegetables,94-157-1762,Devpulse,53,98,23,$5.00 ,2025-02-24,07-04-2024,9/29/2024,917 Westerfield Terrace,41,84,Backordered,Normal Days,144
